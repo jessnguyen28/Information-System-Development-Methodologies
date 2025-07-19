@@ -21,7 +21,6 @@ The proposed system aimed to increase fairness, transparency, and efficiency in 
   - Included **feasibility evaluation** based on projected cash flows, annual cost savings, and total annual benefits  
 
 - **Project Plan**  
-- **Project Plan**  
   Detailed execution phases, resource responsibilities, and long-term maintenance considerations  
   - Included **prototyping** with **wireframes** showcasing proposed system features and user interface flow for applicants and administrators  
 
