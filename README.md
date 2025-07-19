@@ -1,7 +1,4 @@
-# AI-focused Housing Allocation System Project
-Information-System-Development-Methodologies
-
-# 🏠 AI Housing Allocation System – Project Management Report  
+# 🏠 AI-focused Housing Allocation System Project
 **UTS Subject: Information Systems Development Methodologies (2025)**  
 Project by Jessica Nguyen & 5 peers
 
