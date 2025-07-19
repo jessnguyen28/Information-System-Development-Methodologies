@@ -24,7 +24,7 @@ The proposed system aimed to increase fairness, transparency, and efficiency in 
   Detailed execution phases, resource responsibilities, and long-term maintenance considerations  
   - Included **prototyping** with **wireframes** showcasing proposed system features and user interface flow for applicants and administrators  
 
- **Project Delivery Report**  
+ - **Project Delivery Report**  
   Summarised implementation considerations, change management strategies, risk mitigation, and quality control plans for system rollout  
 
 - **Final Stakeholder Presentation (Slides)**  
