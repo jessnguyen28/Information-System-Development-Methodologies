@@ -1,6 +1,6 @@
 # 🏠 AI-focused Housing Allocation System Project
 **UTS Subject: Information Systems Development Methodologies (2025)**  
-Project by Jessica Nguyen & 5 peers
+**Project by Jessica Nguyen & 5 peers**
 
 > *Note: Names and identifying details have been blacked out for confidentiality purposes.*
 
