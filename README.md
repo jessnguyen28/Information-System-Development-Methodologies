@@ -17,28 +17,19 @@ The proposed system aimed to increase fairness, transparency, and efficiency in 
   Defined project scope, objectives, and key stakeholder roles involved in the system development and deployment  
 
 - **Business Case**  
-  Outlined projected benefits, dis-benefits, operational costs, and risks involved in the implementation of the system  
+  Outlined projected benefits, dis-benefits, risks, and estimated operational costs  
+  - Included **feasibility evaluation** based on projected cash flows, annual cost savings, and total annual benefits  
 
+- **Project Plan**  
 - **Project Plan**  
   Detailed execution phases, resource responsibilities, and long-term maintenance considerations  
   - Included **prototyping** with **wireframes** showcasing proposed system features and user interface flow for applicants and administrators  
 
-- **Feasibility Evaluation**  
-  Evaluated based on projected cash flows, total annual benefits, and annual cost savings to assess financial and operational viability  
+ **Project Delivery Report**  
+  Summarised implementation considerations, change management strategies, risk mitigation, and quality control plans for system rollout  
 
 - **Final Stakeholder Presentation (Slides)**  
   Delivered as a team to communicate the system's justification, structure, implementation plan, and stakeholder value  
-
----
-
-## 🛠️ Skills & Tools Applied  
-- Stakeholder & systems analysis  
-- Cost-benefit and risk evaluation  
-- Business case development  
-- Project planning and documentation  
-- Prototyping and wireframing  
-- Team coordination and communication  
-- Presentation design and delivery  
 
 ---
 
