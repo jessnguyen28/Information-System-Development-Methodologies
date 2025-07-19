@@ -2,7 +2,7 @@
 **UTS Subject: Information Systems Development Methodologies (2025)**  
 Project by Jessica Nguyen & 5 peers
 
-## 🧠 Project Overview  
+## Project Overview  
 This group project involved with 5 other peers simulating a real-world project engagement with a government client — the Netherlands Government — to propose an AI-based housing allocation system. The objective was to apply structured project management methodologies to develop professional documentation and recommendations that reflect how a large-scale information system could be scoped, planned, and justified.  
 
 The proposed system aimed to increase fairness, transparency, and efficiency in the housing allocation process through the use of artificial intelligence and stakeholder-informed decision-making.
